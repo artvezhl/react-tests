@@ -1,4 +1,4 @@
-import AppRoter from "./router/AppRoter";
+import AppRoter from "./router/AppRouter";
 import NavBar from "./components/NavBar/NavBar";
 
 const App = () => {
